@@ -1,4 +1,4 @@
-import pyttsx3                      # text to speech conversion 
+import pyttsx3                      # for text to speech conversion 
 import speech_recognition as sr     # for recognizing what is being said 
 import datetime                     # for getting the date and time
 import webbrowser                   # for opening web browsers like google,youtube,facebook and many more

@@ -1,2 +1,2 @@
-# Desktop_Assistant
-A desktop assistant made using Python.
+# Desktop_Voice_Assistant
+A desktop voice assistant made using Python.
